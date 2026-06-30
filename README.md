@@ -23,6 +23,10 @@ RentVerify uses a GenLayer Intelligent Contract to:
 0x74dA23cFB560c531F00DF87e58f2746c0D078C8C
 ```
 
+## Live App
+
+https://rentverify-nu.vercel.app
+
 ## Project Structure
 
 ```text
